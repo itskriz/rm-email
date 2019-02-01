@@ -13,7 +13,7 @@ This plugin is a work in progress. Anticipated product features will include
 
 ## Version History
 ### Alpha
-#### a0.2
+#### a0.2 2019-02-01
 Added more functions and a single page template.
-#### a0.1
+#### a0.1 2019-02-01
 Plugin created. Anticipated directories and files created. Custom post type and taxonmies created.
